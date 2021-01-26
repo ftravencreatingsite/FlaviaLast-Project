@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<body>
+<head>
+	<meta charset="UTF-8">
 <h1>SOMETHING ABOUT ME by Flavia Traven</h1>
 <p>Below I will list some great things you should know about ME!</p>
 </body>
@@ -36,3 +37,5 @@
 <progress id="file" max="100" value="70"> 70% </progress>
 <p><label for="file">Personal Goals:</label>
 <progress id="file" max="100" value="60"> 60% </progress>
+</body>
+</html>
