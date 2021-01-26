@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -23,8 +22,7 @@
 <p>I was born and raised in Rio de Janeiro, Brazil. Lived for 20 years in a small house 2 miles from Ipanema Beach.Some of you will recognized the name IPANEMA.</p>
 <br>
 <h4>Hometown: Rio de Janeiro (photo below taken in 1992)</h4> 
- <img src="Ipanema beach.jpg"> alt="Ipanemabeach" width="200" height="200" 
-<br>
+ <img src="Ipanema beach.jpg"> alt="Ipanemabeach" <br>
 <h4>More About My Hometown</h4>
 <nav>
  	<a href="https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"> A famous song</a> |
@@ -35,7 +33,8 @@
 <h2>My Achievements in Life so Far</h2>
 <p><label for="file">Professional Goals:</label>
 <progress id="file" max="100" value="70"> 70% </progress>
-<p><label for="file">Personal Goals:</label>
-<progress id="file" max="100" value="60"> 60% </progress>
 </body>
 </html>
+<p><label for="file">Personal Goals:</label>
+<progress id="file" max="100" value="60"> 60% </progress>
+
