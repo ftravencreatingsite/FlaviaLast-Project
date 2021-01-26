@@ -38,4 +38,3 @@
 <progress id="file" max="100" value="70"> 70% </progress>
 <p><label for="file">Personal Goals:</label>
 <progress id="file" max="100" value="60"> 60% </progress>
-
