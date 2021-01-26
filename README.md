@@ -19,7 +19,7 @@
   <li>Brazilian</li>
   <li>Greek</li>
 </ol>  
-<h2>My Hometown</strong></h2>
+<h2>My Hometown</h2>
 <br>
 <p>I was born and raised in Rio de Janeiro, Brazil. Lived for 20 years in a small house 2 miles from Ipanema Beach.Some of you will recognized the name IPANEMA.</p>
 <br>
