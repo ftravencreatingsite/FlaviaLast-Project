@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-</head>
 <body>
 <h1>SOMETHING ABOUT ME by Flavia Traven</h1>
 <p>Below I will list some great things you should know about ME!</p>
