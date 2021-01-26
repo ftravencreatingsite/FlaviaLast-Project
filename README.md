@@ -4,10 +4,10 @@
 	<title>My First Project</title>
 </head>
 <body>
-<h1>SOMETHING ABOUT ME by Flavia Traven</h1>
-<p>Below I will list some great things you should know about ME!</p>
 </body>
 </html>	
+<h1>SOMETHING ABOUT ME by Flavia Traven</h1>
+<p>Below I will list some great things you should know about ME!</p>
 <h2>My Favorite Beverages</h2>
 <ul>
   <li>Coffee</li>
