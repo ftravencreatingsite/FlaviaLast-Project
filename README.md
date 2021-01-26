@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 </head>
 <body>
-<main><p>SOMETHING ABOUT ME by Flavia Traven</main>
+<h1>SOMETHING ABOUT ME by Flavia Traven</h1>
 <p>Below I will list some great things you should know about ME!</p>
 </body>
 </html>
