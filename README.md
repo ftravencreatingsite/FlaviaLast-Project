@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
-	<meta charset="UTF-8">
-</head>	
+<meta charset="UTF-8">
+<title> My First Page </title>
+</head>
 <body>
-<h1>SOMETHING ABOUT ME by Flavia Traven</h1>
+<main><p>SOMETHING ABOUT ME by Flavia Traven</main>
 <p>Below I will list some great things you should know about ME!</p>
 </body>
 </html>
