@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
-<title> My First Page </title>
 </head>
 <body>
 <main><p>SOMETHING ABOUT ME by Flavia Traven</main>
