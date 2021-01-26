@@ -23,7 +23,7 @@
 <p>I was born and raised in Rio de Janeiro, Brazil. Lived for 20 years in a small house 2 miles from Ipanema Beach.Some of you will recognized the name IPANEMA.</p>
 <br>
 <h4>Hometown: Rio de Janeiro (photo below taken in 1992)</h4> 
- <img src="https://github.com/ftravencreatingsite/FlaviaLast-Project/blob/main/Ipanema%20beach.jpg" alt="Ipanemabeach" width="200" height="200" 
+ <img src="Ipanema beach.jpg"> alt="Ipanemabeach" width="200" height="200" 
 <br>
 <h4>More About My Hometown</h4>
 <nav>
