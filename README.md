@@ -20,11 +20,14 @@
   <li>Greek</li>
 </ol>  
 <h2>My Hometown</strong></h2>
-    <p>I was born and raised in Rio de Janeiro, Brazil. Lived for 20 years in a small house 2 miles from Ipanema Beach.
-Some of you will recognized the name IPANEMA.</p>
-<h4>Hometown: Rio de Janeiro (photo below taken in 1992)</h4> 
- <img src="https://lonelyplanetimages.imgix.net/mastheads/GettyImages-147189497_medium.jpg" alt="Ipanemabeach width="200" height="200" 
 <br>
+<p>I was born and raised in Rio de Janeiro, Brazil. Lived for 20 years in a small house 2 miles from Ipanema Beach.Some of you will recognized the name IPANEMA.</p>
+<br>
+<h4>Hometown: Rio de Janeiro (photo below taken in 1992)</h4> 
+ <a href="https://lonelyplanetimages.imgix.net/mastheads/GettyImages-147189497_medium.jpg" alt="Ipanemabeach width="200" height="200" 
+</a>
+<br>
+
 <h4>More About My Hometown</h4>
 <nav>
  	<a href="https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"> A famous song</a> |
